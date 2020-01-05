@@ -11,7 +11,7 @@ RUN mkdir /etc/ssr
 
 RUN mkdir /etc/ssr/cfg
 
-RUN wget --no-check-certificate https://github.com/shadowsocksr-backup/shadowsocksr/archive/manyuser.zip -O /tmp/manyuser.zip \
+RUN wget --no-check-certificate https://github.com/niiv0832/shadowsocksr/archive/manyuser.zip -O /tmp/manyuser.zip \
     && unzip -d /tmp /tmp/manyuser.zip \
     && mv /tmp/shadowsocksr-manyuser/shadowsocks ~/shadowsocks \
     && rm -rf /tmp/*
