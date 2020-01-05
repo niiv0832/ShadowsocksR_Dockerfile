@@ -1,4 +1,4 @@
-# Dockerfile_ShadowsocksR
+# Docker container for fast proxy setup based on ShadowsocksR proxy
 
 ShadowsocksR Server running from config file
 
