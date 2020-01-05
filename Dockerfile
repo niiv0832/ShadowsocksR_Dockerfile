@@ -16,7 +16,7 @@ RUN wget --no-check-certificate https://github.com/shadowsocksr-backup/shadowsoc
     && mv /tmp/shadowsocksr-manyuser/shadowsocks ~/shadowsocks \
     && rm -rf /tmp/*
 
-VOLUME ["/etc/ssr/cfg"]
+VOLUME ["/etc/ssr/cfg/"]
 
 EXPOSE 80
 
