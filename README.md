@@ -10,7 +10,7 @@ Link on docker hub: <a href="https://hub.docker.com/r/niiv0832/ssrserver">niiv08
 
 Link on github: <a href="https://www.github.com/niiv0832/Dockerfile_ShadowsocksR">niiv0832/Dockerfile_ShadowsocksR</a>
 
-Android app: <a href="https://github.com/shadowsocksr-backup/shadowsocksr-android/releases/download/3.4.0.8/shadowsocksr-release.apk">shadowsocksr-release.apk</a>
+Android app: <a href="https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk">shadowsocksr-android-3.5.4.apk</a>
 
 iOS/padOS app (AppStore link): <a href="https://apps.apple.com/us/app/shadowrocket/id932747118 ">shadowrocket</a>
 
