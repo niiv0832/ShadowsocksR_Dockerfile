@@ -12,6 +12,6 @@ Link on github: <a href="https://www.github.com/niiv0832/Dockerfile_ShadowsocksR
 
 Android app: <a href="https://github.com/shadowsocksr-backup/shadowsocksr-android/releases/download/3.4.0.8/shadowsocksr-release.apk">shadowsocksr-release.apk</a>
 
-iOS app (AppStore link): <a href="https://apps.apple.com/us/app/shadowrocket/id932747118 ">shadowrocket</a>
+iOS/padOS app (AppStore link): <a href="https://apps.apple.com/us/app/shadowrocket/id932747118 ">shadowrocket</a>
 
 macOS app: <a href="https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases/download/1.4.2-R8-subscribe-alpha-3/ShadowsocksX-NG-R8.dmg">ShadowsocksX-NG-R8.dmg</a>
