@@ -9,3 +9,5 @@ In config must be port 80. Config file name must be "shadowsocks_r.json"
 Link on docker hub: <a href="https://hub.docker.com/r/niiv0832/ssrserver">niiv0832/ssrserver</a>
 
 Link on github: <a href="https://www.github.com/niiv0832/Dockerfile_ShadowsocksR">niiv0832/Dockerfile_ShadowsocksR</a>
+
+Android app: <a href="https://github.com/shadowsocksr-backup/shadowsocksr-android/releases/download/3.4.0.8/shadowsocksr-release.apk"> shadowsocksr-release.apk</a>
