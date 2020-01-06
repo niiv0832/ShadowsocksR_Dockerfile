@@ -15,3 +15,5 @@ Android app: <a href="https://github.com/shadowsocksr-backup/shadowsocksr-androi
 iOS/padOS app (AppStore link): <a href="https://apps.apple.com/us/app/shadowrocket/id932747118 ">shadowrocket</a>
 
 macOS app: <a href="https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases/download/1.4.2-R8-subscribe-alpha-3/ShadowsocksX-NG-R8.dmg">ShadowsocksX-NG-R8.dmg</a>
+
+Windows app: <a href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/download/4.9.2/ShadowsocksR-win-4.9.2.zip">ShadowsocksR-win-4.9.2.zip</a>
