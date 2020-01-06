@@ -10,6 +10,9 @@ Link on docker hub: <a href="https://hub.docker.com/r/niiv0832/ssrserver">niiv08
 
 Link on github: <a href="https://www.github.com/niiv0832/Dockerfile_ShadowsocksR">niiv0832/Dockerfile_ShadowsocksR</a>
 
+
+Client app:
+
 Android app: <a href="https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk">shadowsocksr-android-3.5.4.apk</a>
 
 iOS/padOS app (AppStore link): <a href="https://apps.apple.com/us/app/shadowrocket/id932747118">shadowrocket (support "auth_chain_b")</a> or <a href="https://apps.apple.com/us/app/potatso-lite/id1239860606">potatso-lite (support "auth_chain_a")</a>
@@ -18,4 +21,4 @@ macOS app: <a href="https://github.com/shadowsocksr-backup/ShadowsocksX-NG/relea
 
 Windows app: <a href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/download/4.9.2/ShadowsocksR-win-4.9.2.zip">ShadowsocksR-win-4.9.2.zip</a>
 
-<a href="https://github.com/shadowsocksrr/electron-ssr">Electron-ssr</a> - cross-platform desktop client with support for Windows, MacOS and Linux
+<a href="https://github.com/shadowsocksrr/electron-ssr">Electron-ssr</a> - cross-platform desktop client with support for Windows, MacOS and Linux.
