@@ -12,8 +12,10 @@ Link on github: <a href="https://www.github.com/niiv0832/Dockerfile_ShadowsocksR
 
 Android app: <a href="https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk">shadowsocksr-android-3.5.4.apk</a>
 
-iOS/padOS app (AppStore link): <a href="https://apps.apple.com/us/app/shadowrocket/id932747118 ">shadowrocket</a>
+iOS/padOS app (AppStore link): <a href="https://apps.apple.com/us/app/shadowrocket/id932747118">shadowrocket (support "auth_chain_b")</a> or <a href="https://apps.apple.com/us/app/potatso-lite/id1239860606">potatso-lite (support "auth_chain_a")</a>
 
 macOS app: <a href="https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases/download/1.4.2-R8-subscribe-alpha-3/ShadowsocksX-NG-R8.dmg">ShadowsocksX-NG-R8.dmg</a>
 
 Windows app: <a href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/download/4.9.2/ShadowsocksR-win-4.9.2.zip">ShadowsocksR-win-4.9.2.zip</a>
+
+<a href="https://github.com/shadowsocksrr/electron-ssr">Electron-ssr</a> - cross-platform desktop client with support for Windows, MacOS and Linux
