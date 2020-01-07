@@ -8,9 +8,9 @@ RUN apk update && \
     unzip \
     wget && \
     rm -rf /var/cache/apk/* && \
-    wget --no-check-certificate https://github.com/niiv0832/shadowsocksr/archive/manyuser.zip -O /tmp/manyuser.zip && \
-    unzip -d /tmp /tmp/manyuser.zip && \
-    mv /tmp/shadowsocksr-manyuser/shadowsocks ~/shadowsocks && \
+    wget --no-check-certificate https://github.com/shadowsocksrr/shadowsocksr/archive/3.2.2.zip -O /tmp/3.2.2.zip && \
+    unzip -d /tmp /tmp/3.2.2.zip && \
+    mv /tmp/shadowsocksr-3.2.2/shadowsocks ~/shadowsocks && \
     rm -rf /tmp/* && \
     mkdir -p /etc/ssr/cfg
 
