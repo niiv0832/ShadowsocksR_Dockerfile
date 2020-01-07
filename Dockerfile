@@ -1,4 +1,4 @@
-FROM alpine:3.11.2
+FROM alpine:latest
 MAINTAINER niiv0832 <dockerhubme-ssr@yahoo.com>
 
 RUN apk update && \
