@@ -6,12 +6,12 @@ docker run -d -v $YOUR_PATH_TO_JSON_CONFIG_DIR$:/etc/ssr/cfg -p $YOUR_PORT$:80 -
 
 In config must be port 80. Config file name must be "shadowsocks_r.json"
 
-Link on docker hub: <a href="https://hub.docker.com/r/niiv0832/ssrserver">niiv0832/ssrserver</a>
+<p><u>Link on docker hub:</u></p> <a href="https://hub.docker.com/r/niiv0832/ssrserver">niiv0832/ssrserver</a>
 
-Link on github: <a href="https://www.github.com/niiv0832/Dockerfile_ShadowsocksR">niiv0832/Dockerfile_ShadowsocksR</a>
+<p><u>Link on github:</u></p> <a href="https://www.github.com/niiv0832/Dockerfile_ShadowsocksR">niiv0832/Dockerfile_ShadowsocksR</a>
 
 
-Client app:
+<p><u>Client app:</u></p>
 
 Android app: <a href="https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk">shadowsocksr-android-3.5.4.apk</a>
 
@@ -21,4 +21,8 @@ macOS app: <a href="https://github.com/shadowsocksr-backup/ShadowsocksX-NG/relea
 
 Windows app: <a href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/download/4.9.2/ShadowsocksR-win-4.9.2.zip">ShadowsocksR-win-4.9.2.zip</a>
 
+<p><u>Cross-platform desktop client:</u></p>
+
 <a href="https://github.com/shadowsocksrr/electron-ssr">Electron-ssr</a> - cross-platform desktop client with support for Windows, MacOS and Linux.
+
+<a href="https://github.com/missdeer/avege/tree/master">Avege</a> - Socks5/Transparent Proxy Client.
