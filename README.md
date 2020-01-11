@@ -1,17 +1,20 @@
 # Docker container for fast proxy setup based on ShadowsocksR proxy
 
-ShadowsocksR Server (python, version 3.2.2 2018-05-22) running from config file
+ShadowsocksR Server (python, version 3.2.2 2018-05-22) running from config file&
 
+```shell
 docker run -d --name=ssrserv -v $YOUR_PATH_TO_JSON_CONFIG_DIR$:/etc/ssr/cfg -p $YOUR_PORT$:80 -t niiv0832/ssrserver
+```
 
 In config must be port 80. Config file name must be "shadowsocks_r.json"
 
+## Links:
 Link on docker hub: <a href="https://hub.docker.com/r/niiv0832/ssrserver">niiv0832/ssrserver</a>
 
 Link on github: <a href="https://www.github.com/niiv0832/ShadowsocksR_Dockerfile">niiv0832/ShadowsocksR_Dockerfile</a>
 
 
-Client app:
+### Client app:
 
 Android app: <a href="https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.4/shadowsocksr-android-3.5.4.apk">shadowsocksr-android-3.5.4.apk</a>
 
@@ -21,7 +24,7 @@ macOS app: <a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases/down
 
 Windows app: <a href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases/download/4.9.2/ShadowsocksR-win-4.9.2.zip">ShadowsocksR-win-4.9.2.zip</a>
 
-Cross-platform desktop client:
+### Cross-platform desktop client:
 
 <a href="https://github.com/shadowsocksrr/electron-ssr">Electron-ssr</a> - cross-platform desktop client with support for Windows, MacOS and Linux.
 
