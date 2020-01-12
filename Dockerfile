@@ -3,7 +3,7 @@ MAINTAINER niiv0832 <dockerhubme-ssr@yahoo.com>
 
 RUN apk update && \
     apk upgrade && \
-    apk add python \
+    apk add python3 \
             libsodium \
             unzip \
             wget && \
