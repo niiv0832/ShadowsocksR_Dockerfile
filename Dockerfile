@@ -3,15 +3,17 @@ MAINTAINER niiv0832 <dockerhubme-ssr@yahoo.com>
 
 RUN apk update && \
     apk upgrade && \
-    apk --no-cache --virtual add python \
-    libsodium \
-    unzip \
-    wget && \
-    rm -rf /var/cache/apk/* && \
+    apk add python3 \
+            libsodium \
+            unzip \
+            wget && \
     wget --no-check-certificate https://github.com/niiv0832/shadowsocksr/archive/3.2.2.zip -O /tmp/3.2.2.zip && \
     unzip -d /tmp /tmp/3.2.2.zip && \
     mv /tmp/shadowsocksr-3.2.2/shadowsocks ~/shadowsocks && \
     rm -rf /tmp/* && \
+    apk del unzip \
+            wget && \
+    rm -rf /var/cache/apk/* && \
     mkdir -p /etc/ssr/cfg
 
 VOLUME ["/etc/ssr/cfg/"]
