@@ -3,10 +3,10 @@
 ShadowsocksR Server (`python`, version `3.2.2` `2018-05-22`) running from config file&
 
 ```shell
-docker run -d --name=ssrserv --restart=always -v $YOUR_PATH_TO_JSON_CONFIG_DIR$:/etc/ssr/cfg -p $YOUR_PORT$:80 -t niiv0832/ssrserver
+docker run -d --name=ssrserv --restart=always -v $YOUR_PATH_TO_JSON_CONFIG_DIR$:/etc/ssr/cfg -p $YOUR_PORT$:7200 -t niiv0832/ssrserver
 ```
 
-In config must be port `80`. Config file name must be `"shadowsocks_r.json"`
+In config must be port `7200`. Config file name must be `"shadowsocks_r.json"`
 
 ## Links:
 Link on docker hub: <a href="https://hub.docker.com/r/niiv0832/ssrserver">niiv0832/ssrserver</a>
