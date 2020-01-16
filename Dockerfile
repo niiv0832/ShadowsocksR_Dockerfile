@@ -18,7 +18,7 @@ RUN apk update && \
 
 VOLUME ["/etc/ssr/cfg/"]
 
-EXPOSE 80
+EXPOSE 7200
 
 WORKDIR ~/shadowsocks
 
