@@ -1,4 +1,4 @@
-#ver2020011145
+#ver-2020.01.16.11.45
 FROM alpine:latest
 MAINTAINER niiv0832 <dockerhubme-ssr@yahoo.com>
 
