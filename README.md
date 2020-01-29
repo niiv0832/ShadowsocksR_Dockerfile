@@ -1,6 +1,6 @@
 # Docker container for fast proxy setup based on ShadowsocksR proxy
 
-ShadowsocksR Server (`python`, version `3.2.2` `2018-05-22`) running from config file&
+ShadowsocksR Server (`python`, version `3.2.2` `2018-05-22`) running from config file.
 
 ```shell
 docker run -d --name=ssrserv --restart=always -v $YOUR_PATH_TO_JSON_CONFIG_DIR$:/etc/ssr/cfg -p $YOUR_PORT$:7200 -t niiv0832/ssrserver
